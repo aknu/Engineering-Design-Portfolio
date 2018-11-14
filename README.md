@@ -10,3 +10,4 @@ The 2 programs I am using in this class are
 I may learn stuff from this class about 3d modeling and textures
 
 This is a school project and a Portfolio.
+My school wanted me to use git for this project
